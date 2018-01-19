@@ -1,2 +1,2 @@
-# czesc
-pierwszy raz
+# to jest moje pierwsze repo
+robie commit i już!
